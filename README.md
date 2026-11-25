@@ -6,7 +6,7 @@
 
 ###  Info
 
-Bdomains is a manual list in Adblock format for blocking ads/tracking/statistics and also malware/suspicious domains.
+Bdomains is a manual list in Adblock format for blocking ads/tracking/malware/suspicious domains.
 
 ---
 
