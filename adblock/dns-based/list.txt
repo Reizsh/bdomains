@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Bdomains (dns-based)
-! Description: Blocks ads/tracking/statistics and also malware/suspicious domains.
+! Description: Blocks ads/tracking/malware/suspicious domains.
 ! Author: Reizsh
 ! Homepage: https://github.com/Reizsh/bdomains
 ! License: MIT
@@ -29,6 +29,7 @@
 ||static-web.likeevideo.*^
 ||stat.online.sberbank.ru^
 ||ddp-mobile.online.sberbank.ru^
+||ris.promo^
 
 # Malware/Suspicious domains.
 ||mbnvjpw.com^
@@ -193,3 +194,4 @@
 ||wіIdbеrrіes.ru^
 ||wіIdberrіеs.ru^
 ||wіIdbеrrіеs.ru^
+||jkcvcdq.com^
