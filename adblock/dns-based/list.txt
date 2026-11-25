@@ -1,4 +1,9 @@
-# Domain list by Reizsh.
+[Adblock Plus 2.0]
+! Title: Bdomains (dns-based)
+! Description: Blocks ads/tracking/statistics and also malware/suspicious domains.
+! Author: Reizsh
+! Homepage: https://github.com/Reizsh/bdomains
+! License: MIT
 
 # Ads/Tracking/Analytics domains.
 ||uxzw.club^
@@ -156,3 +161,35 @@
 ||imvonbo.com^
 ||cdowe.com^
 ||aylnb.com^
+||nmhla.com^
+||xupvy.com^
+||mrhrrhj.com^
+||sjkbtye.com^
+||ffjoc.com^
+||оzon.ru^
+||ozоn.ru^
+||оzоn.ru^
+||wildbеrries.ru^
+||wildberriеs.ru^
+||wildbеrriеs.ru^
+||wiIdbеrries.ru^
+||wiIdberriеs.ru^
+||wiIdbеrriеs.ru^
+||wіldbеrries.ru^
+||wіldberriеs.ru^
+||wіldbеrriеs.ru^
+||wіIdbеrries.ru^
+||wіIdberriеs.ru^
+||wіIdbеrriеs.ru^
+||wildbеrrіes.ru^
+||wildberrіеs.ru^
+||wildbеrrіеs.ru^
+||wiIdbеrrіes.ru^
+||wiIdberrіеs.ru^
+||wiIdbеrrіеs.ru^
+||wіldbеrrіes.ru^
+||wіldberrіеs.ru^
+||wіldbеrrіеs.ru^
+||wіIdbеrrіes.ru^
+||wіIdberrіеs.ru^
+||wіIdbеrrіеs.ru^
